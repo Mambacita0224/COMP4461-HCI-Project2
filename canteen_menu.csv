@@ -1,0 +1,16 @@
+﻿Diet_type,Meal_type,Restaurant,Cuisine_type,Recipe_name,Carbs(kcal),SpicyOrNot,DiaryProduct & Eggs,Seafood
+paleo,lunch,Hungry Korean,Korean,Spicy Chicken,701,T,F,F
+paleo,dinner,Hungry Korean,Korean,Bi Bim Bap,615,F,F,F
+keto,dinner,Hungry Korean,Korean,LA Gal Bi,920,F,F,F
+keto,lunch,Hungry Korean,Korean,Chiciken Wings(4pcs),390,F,F,F
+paleo,dinner,Hungry Korean,Korean,Kimchi soup (comes with rice),528,T,F,F
+keto,dinner,Gold Rice Bowl,Japanese,Teppanyaki Mixed Grill,930,F,F,F
+paleo,dinner,Gold Rice Bowl,Japanese,Roasted Eel & Scrambled Egg Rice,930,F,T,T
+paleo,lunch,Gold Rice Bowl,Chinese,3 Choices of dish w/Rice,950,T,F,F
+paleo,lunch,Gold Rice Bowl,Chinese,Minced Pork Noodle Soup,530,T,F,F
+vegan,lunch,TT veggie,Chinese,Nourishing Congee & Noodle Set,420,F,F,F
+vegan,dinner,TT veggie,Chinese,Vegan BBQ Park & Fried Egg w/Rice,500,F,F,F
+vegan,breakfast,American Diner,American,Veggie Omn! Pork All Day Breakfast,522,F,F,F
+paleo,breakfast,American Diner,American,Smoked Salmon Breakfast,650,F,F,T
+vegan,breakfast,McDonald,American,Caesar Salad,127,F,F,F
+paleo,breakfast,McDonald,American,Deluxe Breakfast,598,F,T,F
