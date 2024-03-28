@@ -12,21 +12,6 @@ if 'clicked' not in st.session_state:
 
 def click_button():
     st.session_state.clicked = True
-# def display_recipe_recommendations(df):
-    
-#     st.sidebar.subheader('Step 2: Analyze the recipes based on your likes')
-#     diet_filter = st.sidebar.radio("Select Your Diet type", ('paleo', 'vegan', 'keto', 'No specific diet'))
-#     cuisine_filter = st.sidebar.multiselect('Choose Your Preferred Cuisines', df.Cuisine_type.unique(), ('Chinese', 'American', 'Korean'))
-#     done = st.sidebar.button("Done")
-    
-#     # Filter by eating habits
-#     if diet_filter != 'No specific diet':
-#         df = df[df.Diet_type == diet_filter]
-
-#     # Filter by cuisine
-#     df = df[df.Cuisine_type.isin(cuisine_filter)]
-#     st.subheader('The table below displays the recommended recipes based on your diets and preferred cuisines.')
-#     st.write(df[['Restaurant', 'Recipe_name', 'Cuisine_type', 'Carbs(kcal)']])
 
 # Initial message content as a JSON object
 initial_content = {
